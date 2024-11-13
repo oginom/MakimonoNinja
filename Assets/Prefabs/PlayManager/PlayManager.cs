@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
 
-namespace MakimonoNinja.mogino.com {
+namespace MakimonoNinja.emuogi.com {
     public class PlayManager : MonoBehaviour
     {
         public static PlayManager Instance { get; private set; }

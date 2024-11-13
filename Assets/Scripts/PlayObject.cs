@@ -1,7 +1,7 @@
 using System.Runtime.CompilerServices;
 using UnityEngine;
 
-namespace MakimonoNinja.mogino.com {
+namespace MakimonoNinja.emuogi.com {
     public class PlayObject : MonoBehaviour
     {
         // Start is called once before the first execution of Update after the MonoBehaviour is created

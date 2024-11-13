@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace MakimonoNinja.mogino.com
+namespace MakimonoNinja.emuogi.com
 {
     public class Enemy : PlayObject
     {

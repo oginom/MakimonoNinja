@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace MakimonoNinja.mogino.com {
+namespace MakimonoNinja.emuogi.com {
     public class Makimono : PlayObject
     {
         static Vector3 BASE_POSITION = new Vector3(-4, 0, 1);
