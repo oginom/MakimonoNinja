@@ -73,3 +73,11 @@ crashlytics-build.properties
 
 # OS file
 .DS_Store
+
+# Assets
+/[Aa]ssets/Gutty Kreum
+/[Aa]ssets/Gutty Kreum.meta
+/[Aa]ssets/Gutty Kreum/Free Japanese City Game Assets
+/[Aa]ssets/Gutty Kreum/Free Japanese City Game Assets.meta
+/[Aa]ssets/Gutty Kreum/Temples and Shrines Game Assets
+/[Aa]ssets/Gutty Kreum/Temples and Shrines Game Assets.meta
